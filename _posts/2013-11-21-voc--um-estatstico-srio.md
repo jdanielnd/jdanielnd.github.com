@@ -3,7 +3,7 @@ layout: post
 title: "Você é um estatístico? Sério?"
 categories: []
 tags: []
-fullview: false
+fullview: true
 ---
 {% include JB/setup %}
 
