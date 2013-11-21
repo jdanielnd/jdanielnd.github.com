@@ -4,16 +4,16 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 
-title: dbyll
+title: João Daniel
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: asd123
-  pinterest: asd123
-  linkedin: asd123
-  resume: asd123
-  bio: Your stylish, minimalist theme!
+  name: João Daniel
+  email: jd@fores.ee
+  github: jdanielnd
+  twitter: joaodanielnd
+  # pinterest: asd123
+  # linkedin: asd123
+  # resume: asd123
+  bio: Mineiro, estatístico e empreendedor
   email_md5: 726351295ec82e145928582f595aa3aa
   
 BASE_PATH: /
