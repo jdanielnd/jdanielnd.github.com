@@ -11,7 +11,7 @@ body{
 }
 
 .sidebar {
-	min-height: auto !important;
+	/*min-height: auto !important;*/
 	top: 0px;
 	padding-top: 10%;
 }
