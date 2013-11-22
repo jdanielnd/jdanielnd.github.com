@@ -1,5 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
+@media (min-width: 768px) {
+	.sidebar {
+		position: fixed;
+	}
+}
+
 body{
 	color: #2c3e50;
 }
