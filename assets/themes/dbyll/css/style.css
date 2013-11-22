@@ -11,7 +11,7 @@ body{
 }
 
 .sidebar {
-	position: fixed;
+	min-height: auto !important;
 	top: 0px;
 	padding-top: 10%;
 }
