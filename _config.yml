@@ -16,7 +16,18 @@ author:
   bio: Mineiro e estatístico
   email_md5: acd0e265b33eccefa2c089316b5a55f8
   
-BASE_PATH: /
+BASE_PATH: jdanielnd.github.io
 
 categories_path: categories.html
 tags_path: tags.html
+
+# mini_magick:
+#     thumbnail:
+#         source: assets/img/
+#         destination: img/photos/thumbnail
+#         resize: "100x100"
+#     medium:
+#         source: assets/img/
+#         destination: img/photos/medium
+#         resize: "600x400"
+
