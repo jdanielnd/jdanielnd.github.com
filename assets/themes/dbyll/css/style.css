@@ -48,8 +48,11 @@ article{
 	margin-bottom: 40px;
 }
 
-article a { color: #2c3e50; }
-article a:hover { color: #2c3e50; text-decoration: none; }
+article a {
+	color: #428BCA; 
+}
+
+article a:hover { color: #428BCA; text-decoration: none; }
 
 .post-date {
 	text-transform: uppercase;

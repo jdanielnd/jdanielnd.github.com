@@ -11,7 +11,7 @@ Muitas vezes, quando digo qual é a minha profissão, as pessoas ficam surpresas
 
 Poucos demonstram conhecer do que se trata a profissão, e entender porque ela está tão frequentemente na mídia e já é figurinha carimbada nas listas de *melhores profissões da década*, ou do século.
 
-Como 2013 é o Ano Mundial da Estatística, me senti no dever de tentar divulgar de alguma forma **o que é esta área de conhecimento**, **o que ela não é**, e **como ela está presente** no nosso dia a dia.
+Como 2013 é o [Ano Mundial da Estatística](http://www.statistics2013.org/), me senti no dever de tentar divulgar de alguma forma **o que é esta área de conhecimento**, **o que ela não é**, e **como ela está presente** no nosso dia a dia.
 
 Bom, o que é então Estatística?
 
