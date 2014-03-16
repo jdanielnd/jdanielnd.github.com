@@ -1,0 +1,3 @@
+If you want to write new high-performance code, we do not recommend using C, but instead strongly recommend using Rcpp to connect to C++. The Rcpp API protects you from many of the historical idiosyncracies of the R API, takes care of memory management for you, and provides many useful helper methods
+
+http://adv-r.had.co.nz/C-interface.html
